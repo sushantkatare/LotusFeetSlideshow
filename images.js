@@ -208,5 +208,95 @@ const LOTUS_FEET_IMAGES = [
     source: "Rawpixel",
     license: "CC0",
     link: "https://www.rawpixel.com/image/13951874/image-cartoon-person-book"
+  },
+
+  // --- Krishna alone (baby Krishna / dancing Krishna) ---
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Raja_Ravi_Varma%2C_Yasoda_Adorning_Krishna.jpg",
+    title: "Yashoda Adorning Krishna",
+    artist: "Raja Ravi Varma",
+    source: "Wikimedia Commons",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma,_Yasoda_Adorning_Krishna.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Yashoda_coaxing_baby_Krishna%2C_Kalighat_Painting.jpg",
+    title: "Yashoda Coaxing Baby Krishna",
+    artist: "Rajan Guptta (Kalighat style)",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    link: "https://commons.wikimedia.org/wiki/File:Yashoda_coaxing_baby_Krishna,_Kalighat_Painting.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/0/04/Indian_-_Krishna_Dancing_with_Gopi_-_Walters_W858.jpg",
+    title: "Krishna Dancing with Gopi",
+    artist: "Unknown artist",
+    source: "Walters Art Museum",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Indian_-_Krishna_Dancing_with_Gopi_-_Walters_W858.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/7/78/Krishna_%28Shrinathji%29_and_the_Dancing_Gopis._Pichhavai_from_the_Temple_of_Nathdvara%2C_Rajasthan%2C_19_sent._Staatlische_Museen%2C_Berlin..jpg",
+    title: "Krishna (Shrinathji) and the Dancing Gopis (Pichhavai)",
+    artist: "Unknown artist, Temple of Nathdvara",
+    source: "Staatliche Museen, Berlin (via Wikimedia Commons)",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Krishna_(Shrinathji)_and_the_Dancing_Gopis._Pichhavai_from_the_Temple_of_Nathdvara,_Rajasthan,_19_sent._Staatlische_Museen,_Berlin..jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/0/02/Krishna_dancing_atop_a_stool%2C_attended_by_two_gopis._%286125100924%29.jpg",
+    title: "Krishna Dancing Atop a Stool, Attended by Two Gopis",
+    artist: "Unknown artist",
+    source: "San Diego Museum of Art (via Wikimedia Commons)",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Krishna_dancing_atop_a_stool,_attended_by_two_gopis._(6125100924).jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/4/49/Krishna_dancing_with_the_gopis_%286124519381%29.jpg",
+    title: "Krishna Dancing with the Gopis",
+    artist: "Unknown artist",
+    source: "San Diego Museum of Art (via Wikimedia Commons)",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Krishna_dancing_with_the_gopis_(6124519381).jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/5/52/Krishna_dances_in_the_Raslila_with_the_Gopis.jpg",
+    title: "Krishna Dances in the Raslila with the Gopis",
+    artist: "Unknown artist",
+    source: "Wikimedia Commons",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Krishna_dances_in_the_Raslila_with_the_Gopis.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/d/df/Aan_de_oever_van_de_Yamuna_te_Brindaban_danst_Krishna_met_de_Gopis%2C_RP-T-1895-A-3064.jpg",
+    title: "On the Banks of the Yamuna at Vrindavan, Krishna Dances with the Gopis",
+    artist: "Unknown artist",
+    source: "Rijksmuseum (via Wikimedia Commons)",
+    license: "CC0",
+    link: "https://commons.wikimedia.org/wiki/File:Aan_de_oever_van_de_Yamuna_te_Brindaban_danst_Krishna_met_de_Gopis,_RP-T-1895-A-3064.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/3/30/Indian_School%2C_late_18th_century_-_Krishna_dances_to_the_musoc_of_the_gopis._-_RCIN_1005113.z_-_Royal_Collection.jpg",
+    title: "Krishna Dances to the Music of the Gopis",
+    artist: "Indian School, late 18th century",
+    source: "Royal Collection (via Wikimedia Commons)",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Indian_School,_late_18th_century_-_Krishna_dances_to_the_musoc_of_the_gopis._-_RCIN_1005113.z_-_Royal_Collection.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Anonymous_-_Krishna_Dancing_with_the_Gopis_%28from_a_Gita_Govinda_%28Song_of_the_Cowherd%29_manuscript%29_-_1995.76_-_Arthur_M._Sackler_Museum.jpg",
+    title: "Krishna Dancing with the Gopis (Gita Govinda manuscript)",
+    artist: "Unknown artist",
+    source: "Arthur M. Sackler Museum (via Wikimedia Commons)",
+    license: "Public Domain",
+    link: "https://commons.wikimedia.org/wiki/File:Anonymous_-_Krishna_Dancing_with_the_Gopis_(from_a_Gita_Govinda_(Song_of_the_Cowherd)_manuscript)_-_1995.76_-_Arthur_M._Sackler_Museum.jpg"
+  },
+  {
+    src: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Maha_Daan_Leela.png",
+    title: "Maha Daan Leela",
+    artist: "Khubiram Gopilal (1891–1970)",
+    source: "Wikimedia Commons",
+    license: "CC BY-SA 4.0",
+    link: "https://commons.wikimedia.org/wiki/File:Maha_Daan_Leela.png"
   }
 ];
